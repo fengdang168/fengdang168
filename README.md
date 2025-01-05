@@ -39,10 +39,7 @@
 <a href="https://blog.fengdang.pro"><img src="https://img.shields.io/badge/Blog-fengdang.pro-pink?logo=Blogger&logoColor=rgb(135, 206, 250)" /></a>
 <a href="https://github.com/fengdang168"><img src="https://komarev.com/ghpvc/?username=fengdang168&abbreviated=true&color=yellow" ></a>
 </p>
-## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=fengdang168/&type=Date)](https://star-history.com/#fengdang168/&Date)
-<!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=78&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=46&animation=twinkling" />
 </p>
